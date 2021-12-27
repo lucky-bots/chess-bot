@@ -11,6 +11,7 @@ transitions = "0.6.9"
 pygraphviz = "*"
 Pillow = "8.0.1"
 numpy = "1.17.4"
+cython
 [dev-packages]
 
 [requires]
